@@ -32,11 +32,15 @@ public class Test1 {
 
         env.execute("window wordCount");
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
         System.out.println("my first use it");
 >>>>>>> da467b6a92bad366abdb6375af9ad79493f8706b
+=======
+        System.out.println("my first use it   ");
+>>>>>>> shichipeng
     }
 
 
